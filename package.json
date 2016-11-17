@@ -1,6 +1,6 @@
 {
   "author": "",
-  "name": "angular-ui-table-view-demo",
+  "name": "angular-ui-table-view",
   "version": "0.0.0",
   "description": "",
   "homepage": "",
@@ -24,6 +24,7 @@
     "karma-chai": "0.0.2",
     "karma-sinon-chai": "~0.1.4"
   },
+  "main": "dist/ui-table-view.js",
   "scripts": {
     "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
   },
